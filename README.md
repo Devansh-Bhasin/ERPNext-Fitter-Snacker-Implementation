@@ -64,3 +64,12 @@ ERPNext was selected as the recommended ERP platform because it provides strong 
 Devansh Bhasin  
 Bachelor of Technology in Information Technology  
 Kwantlen Polytechnic University
+
+## Skills Demonstrated
+- Business Process Analysis
+- ERP System Evaluation
+- Enterprise Systems Documentation
+- Inventory & Manufacturing Workflow Analysis
+- ERP Solution Recommendation
+- Technical Research & Reporting
+- Team Collaboration
