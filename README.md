@@ -60,11 +60,6 @@ ERPNext was selected as the recommended ERP platform because it provides strong 
 ## Report
 [View ERP Evaluation Report](reports/ERP-System-Evaluation-Fitter-Snacker.pdf)
 
-## Author
-Devansh Bhasin  
-Bachelor of Technology in Information Technology  
-Kwantlen Polytechnic University
-
 ## Skills Demonstrated
 - Business Process Analysis
 - ERP System Evaluation
@@ -73,3 +68,9 @@ Kwantlen Polytechnic University
 - ERP Solution Recommendation
 - Technical Research & Reporting
 - Team Collaboration
+
+## Author
+Devansh Bhasin  
+Bachelor of Technology in Information Technology  
+Kwantlen Polytechnic University
+
